@@ -1,47 +1,65 @@
-<div align="left">
+<a href="#"><img align="left" src="https://ui-avatars.com/api/?name=KA&background=1D9E75&color=fff&size=86&font-size=0.4" alt="KA" style="border-radius: 50%" /></a>
+<h2>Kunal Aggarwal</h2>
+<p>AI Engineering Student · Building things that think, breaking things that almost think</p>
+<code>LLM Evaluation</code> <code>Multi-Agent Systems</code> <code>RLHF</code>
+<br><br><br>
 
-```
-hey, I'm Kunal 👋
-```
+###### WHO AM I
+> ```javascript
+> // CS undergrad @ VIT Bhopal — class of 2027
+> 
+> role      = "AI Model Analyst @ Deccan AI Experts"
+> focus     = "LLM eval · RLHF · multi-agent pipelines"
+> obsession = "the almost-correct outputs. that's where it gets interesting."
+> 
+> // currently going deep on LangGraph + transformer internals
+> // exploring deep into AI, not tutorial-following, but the kind where you hit a wall at 2am.
+> ```
 
-### I build AI things. Mostly I just try to understand **why they break.**
+###### STACK
+`LangChain` `LangGraph` `OpenAI API` `HuggingFace` `smolagents` `Google ADK` `FAISS` `RAG` `RLHF` `Prompt Engineering` `Python` `Flask` `SQL` `MongoDB` `scikit-learn`
 
-</div>
+<br>
 
----
+###### EXPERIENCE
+> **AI Model Analyst & Trainer - Deccan AI**  
+> *March 2026 – Present · Remote*  
+> <br>
+> → Evaluate and debug LLM-generated responses across model iterations  
+> → Conducting RLHF by ranking outputs — contributing to 15%+ reduction in syntax errors  
+> → Surfacing edge cases in advanced algorithmic queries to improve prompt-response alignment  
 
-```js
-// CS undergrad @ VIT Bhopal — class of 2027
+<br>
 
-role      = "AI Model Analyst @ Deccan AI Experts"
-focus     = "LLM evaluation, RLHF, multi-agent systems"
-obsession = "the almost-correct outputs. that's where it gets interesting."
+###### RIGHT NOW
+<table>
+  <tr>
+    <td width="50%">
+      🟢 <b>Building</b> — AI pipelines, always something new in the repo
+    </td>
+    <td width="50%">
+      🔵 <b>Reading</b> — transformer internals, agent reasoning papers
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🟠 <b>Learning</b> — LangGraph deep-dives, Google ADK, agentic systems
+    </td>
+    <td>
+      🔴 <b>Open to</b> — AI/ML opportunities
+    </td>
+  </tr>
+</table>
 
-// currently going deep on LangGraph + transformer architecture
-// re-reading "Attention is All You Need" for the third time. actually getting it now.
-```
+<br>
 
----
+###### CERTIFICATIONS
+✦ Machine Learning Specialization — DeepLearning.AI & Stanford (Andrew Ng)  
+✦ Deep Agents with LangGraph — LangChain Academy  
+✦ AI Agents Course — Hugging Face (smolagents, LangGraph, LlamaIndex)  
+✦ Agent Development Kit (ADK) Crash Course — Google Codelabs  
 
-**what i work with**
+<br>
 
-`LangChain` `LangGraph` `OpenAI API` `HuggingFace` `smolagents` `Google ADK` `FAISS` `Python` `Flask` `SQL` `MongoDB` `RAG` `RLHF` `Prompt Engineering`
-
----
-
-**right now**
-
-- 🔨 building new stuff — actively, always
-- 📖 reading transformer internals, agent reasoning papers
-- 🎯 looking for an AI/ML internship — real problems only
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koi-bito)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/koibito)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunal271202@gmail.com)
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=koi-bito&theme=dark&hide_border=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koi-bito&theme=dark&hide_border=true&layout=compact)
+###### FIND ME
+[LinkedIn](https://linkedin.com/in/koi-bito) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LeetCode](https://leetcode.com/u/koibito) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mailto:kunal271202@gmail.com)
