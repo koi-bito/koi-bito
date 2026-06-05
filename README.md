@@ -26,7 +26,7 @@
 > *March 2026 – Present · Remote*  
 > <br>
 > → Evaluate and debug LLM-generated responses across model iterations  
-> → Conducting RLHF by ranking outputs — contributing to 15%+ reduction in syntax errors  
+> → Conducting RLHF by ranking outputs, contributing to 15%+ reduction in syntax errors  
 > → Surfacing edge cases in advanced algorithmic queries to improve prompt-response alignment  
 
 <br>
