@@ -6,7 +6,7 @@
 
 ###### WHO AM I
 > ```javascript
-> // CS undergrad @ VIT Bhopal — class of 2027
+> // CS undergrad @ VIT Bhopal - class of 2027
 > 
 > role      = "AI Model Analyst @ Deccan AI Experts"
 > focus     = "LLM eval · RLHF · multi-agent pipelines"
@@ -23,7 +23,7 @@
 
 ###### EXPERIENCE
 > **AI Model Analyst & Trainer - Deccan AI**  
-> *March 2026 – Present · Remote*  
+> *March 2026 - Present · Remote*  
 > <br>
 > → Evaluate and debug LLM-generated responses across model iterations  
 > → Conducting RLHF by ranking outputs, contributing to 15%+ reduction in syntax errors  
@@ -35,18 +35,18 @@
 <table>
   <tr>
     <td width="50%">
-      🟢 <b>Building</b> — AI pipelines, always something new in the repo
+      🟢 <b>Building</b> - AI pipelines, always something new in the repo
     </td>
     <td width="50%">
-      🔵 <b>Reading</b> — transformer internals, agent reasoning papers
+      🔵 <b>Reading</b> - transformer internals, agent reasoning papers
     </td>
   </tr>
   <tr>
     <td>
-      🟠 <b>Learning</b> — LangGraph deep-dives, Google ADK, agentic systems
+      🟠 <b>Learning</b> - LangGraph deep-dives, Google ADK, agentic systems
     </td>
     <td>
-      🔴 <b>Open to</b> — AI/ML opportunities
+      🔴 <b>Open to</b> - AI/ML opportunities
     </td>
   </tr>
 </table>
@@ -54,10 +54,10 @@
 <br>
 
 ###### CERTIFICATIONS
-✦ Machine Learning Specialization — DeepLearning.AI & Stanford (Andrew Ng)  
-✦ Deep Agents with LangGraph — LangChain Academy  
-✦ AI Agents Course — Hugging Face (smolagents, LangGraph, LlamaIndex)  
-✦ Agent Development Kit (ADK) Crash Course — Google Codelabs  
+✦ Machine Learning Specialization - DeepLearning.AI & Stanford (Andrew Ng)  
+✦ Deep Agents with LangGraph - LangChain Academy  
+✦ AI Agents Course - Hugging Face (smolagents, LangGraph, LlamaIndex)  
+✦ Agent Development Kit (ADK) Crash Course - Google Codelabs  
 
 <br>
 
