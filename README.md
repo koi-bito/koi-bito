@@ -1,6 +1,7 @@
 <a href="#"><img align="left" src="https://ui-avatars.com/api/?name=KA&background=1D9E75&color=fff&size=86&font-size=0.4" alt="KA" style="border-radius: 50%" /></a>
 <h2>Kunal Aggarwal</h2>
 <p>AI Engineering Student · Building things that think, breaking things that almost think</p>
+<p><a href="https://koi-bito.github.io/" target="_blank">🌐 Portfolio</a></p>
 <code>LLM Evaluation</code> <code>Multi-Agent Systems</code> <code>RLHF</code>
 <br><br><br>
 
